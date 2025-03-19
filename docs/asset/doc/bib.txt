@@ -1,0 +1,9 @@
+@misc{lian2025infinitemobilityscalablehighfidelity,
+      title={Infinite Mobility: Scalable High-Fidelity Synthesis of Articulated Objects via Procedural Generation}, 
+      author={Xinyu Lian and Zichao Yu and Ruiming Liang and Yitong Wang and Li Ray Luo and Kaixu Chen and Yuanzhen Zhou and Qihong Tang and Xudong Xu and Zhaoyang Lyu and Bo Dai and Jiangmiao Pang},
+      year={2025},
+      eprint={2503.13424},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2503.13424}, 
+}
